@@ -1,0 +1,31 @@
+h1 {
+    color:blue;
+    text-shadow: 2px 2px 3px yellow;
+}
+fieldset {
+    background-color: aqua;
+}
+
+fieldset legend {
+    background-color: red;
+    color: white;
+}
+
+fieldset input[type=text] {
+    background-color:  yellow;
+    border: 1px solid;
+    border-color: gray;
+    border-radius: 4px;
+}
+
+.botones {
+
+    background-color: pink;
+    border: 1px solid;
+    border-color: gray;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
